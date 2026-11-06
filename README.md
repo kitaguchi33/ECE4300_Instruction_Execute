@@ -9,7 +9,7 @@
 | [`[alu].v`]() | 
 | [`[top_mux].v`]() | 
 | [`[ex_mem].v`]() | 
-| [`[adder].v`]() | 
+| [`[adder].v`](https://github.com/kitaguchi33/ECE4300_Instruction_Execute/blob/main/src/adder.v) | 
 
 
 ### Testbench
