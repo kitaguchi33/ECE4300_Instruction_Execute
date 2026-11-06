@@ -4,7 +4,7 @@
 
 | File |
 |---|
-| [`[execute].v`](https://github.com/kitaguchi33/ECE4300_Instruction_Execute/blob/main/src/adder.v) |
+| [`[execute].v`](https://github.com/kitaguchi33/ECE4300_Instruction_Execute/blob/main/src/execute.v) |
 | [`[bottom_mux].v`](https://github.com/kitaguchi33/ECE4300_Instruction_Execute/blob/main/src/bottom_mux) | 
 | [`[alu_control].v`](https://github.com/kitaguchi33/ECE4300_Instruction_Execute/blob/main/src/alu_control.v) | 
 | [`[alu].v`](https://github.com/kitaguchi33/ECE4300_Instruction_Execute/blob/main/src/alu.v) | 
