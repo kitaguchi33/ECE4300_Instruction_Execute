@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-module ex_mem (
+module Ex_Mem_Latch (
     input wire        clk, rst,
 
     input wire [1:0]  ctlwb_in,
