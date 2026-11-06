@@ -1,26 +1,18 @@
 `timescale 1ns / 1ps
 
 module Ex_Mem_Latch (
-    input wire        clk, rst,
+    input wire        clk, rst, aluzero_in,
 
     input wire [1:0]  ctlwb_in,
     input wire [2:0]  ctlm_in,
 
-    input wire [31:0] adder_in,
-    input wire        aluzero_in,
-    input wire [31:0] aluout_in,
-    input wire [31:0] readdat2_in,
+    input wire [31:0] adder_in, aluout_in, readdat2_in,       
     input wire [4:0]  muxout_in,
 
     output reg [1:0]  ctlwb_out,
-    output reg        branch,
-    output reg        memread,
-    output reg        memwrite,
+    output reg        branch, memread, memwrite, zero,
 
-    output reg [31:0] add_result,
-    output reg        zero,
-    output reg [31:0] alu_result,
-    output reg [31:0] readdat2_out,
+    output reg [31:0] add_result, alu_result, readdat2_out,
     output reg [4:0]  five_bit_muxout
 );
 
