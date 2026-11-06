@@ -19,7 +19,7 @@
 |---|
 | [`[alu_control_tb].v`](https://github.com/kitaguchi33/ECE4300_Instruction_Execute/blob/main/tb/alu_control_tb.v) | 
 | [`[alu_tb].v`](https://github.com/kitaguchi33/ECE4300_Instruction_Execute/blob/main/tb/alu_tb.v) | 
-| [`[execute_tb].v`]() | 
+| [`[execute_tb].v`](https://github.com/kitaguchi33/ECE4300_Instruction_Execute/blob/main/tb/execute_tb.v) | 
 
 
 ### Timing Diagrams
