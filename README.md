@@ -9,6 +9,8 @@
 | [`[alu].v`]() | 
 | [`[top_mux].v`]() | 
 | [`[ex_mem].v`]() | 
+| [`[adder].v`]() | 
+
 
 ### Testbench
 | File |
