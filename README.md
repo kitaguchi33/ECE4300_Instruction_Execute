@@ -5,9 +5,9 @@
 | File |
 |---|
 | [`[bottom_mux].v`](https://github.com/kitaguchi33/ECE4300_Instruction_Execute/blob/main/src/bottom_mux) | 
-| [`[alu_control].v`]() | 
-| [`[alu].v`]() | 
-| [`[top_mux].v`]() | 
+| [`[alu_control].v`](https://github.com/kitaguchi33/ECE4300_Instruction_Execute/blob/main/src/alu_control.v) | 
+| [`[alu].v`](https://github.com/kitaguchi33/ECE4300_Instruction_Execute/blob/main/src/alu.v) | 
+| [`[top_mux].v`](https://github.com/kitaguchi33/ECE4300_Instruction_Execute/blob/main/src/top_mux.v) | 
 | [`[idExLatch].v`]() | 
 | [`[adder].v`](https://github.com/kitaguchi33/ECE4300_Instruction_Execute/blob/main/src/adder.v) | 
 
