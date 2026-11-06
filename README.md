@@ -15,10 +15,8 @@
 ### Testbench
 | File |
 |---|
-| [`[bottom_mux_sim].v`]() |
-| [`[alu_control_sim].v`]() | 
-| [`[alu_sim].v`]() | 
-| [`[top_mux_sim].v`]() | 
+| [`[alu_control_tb].v`](https://github.com/kitaguchi33/ECE4300_Instruction_Execute/blob/main/tb/alu_control_tb.v) | 
+| [`[alu_tb].v`](https://github.com/kitaguchi33/ECE4300_Instruction_Execute/blob/main/tb/alu_tb.v) | 
 | [`[ex_mem_sim].v`]() | 
 
 
