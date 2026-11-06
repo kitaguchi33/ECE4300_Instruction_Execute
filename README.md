@@ -12,12 +12,13 @@
 | [`[adder].v`](https://github.com/kitaguchi33/ECE4300_Instruction_Execute/blob/main/src/adder.v) | 
 
 
+
 ### Testbench
 | File |
 |---|
 | [`[alu_control_tb].v`](https://github.com/kitaguchi33/ECE4300_Instruction_Execute/blob/main/tb/alu_control_tb.v) | 
 | [`[alu_tb].v`](https://github.com/kitaguchi33/ECE4300_Instruction_Execute/blob/main/tb/alu_tb.v) | 
-| [`[ex_mem_sim].v`]() | 
+| [`[execute_tb].v`]() | 
 
 
 ### Timing Diagrams
