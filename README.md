@@ -1,4 +1,4 @@
-# ECE4300_Instruction_Execute
+# ECE4300_Execute
 
 ### Source Code
 
