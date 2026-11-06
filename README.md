@@ -8,7 +8,7 @@
 | [`[alu_control].v`]() | 
 | [`[alu].v`]() | 
 | [`[top_mux].v`]() | 
-| [`[ex_mem].v`]() | 
+| [`[idExLatch].v`]() | 
 | [`[adder].v`](https://github.com/kitaguchi33/ECE4300_Instruction_Execute/blob/main/src/adder.v) | 
 
 
