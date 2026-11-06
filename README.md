@@ -4,7 +4,7 @@
 
 | File |
 |---|
-| [`[bottom_mux].v`]() | 
+| [`[bottom_mux].v`](https://github.com/kitaguchi33/ECE4300_Instruction_Execute/blob/main/src/bottom_mux) | 
 | [`[alu_control].v`]() | 
 | [`[alu].v`]() | 
 | [`[top_mux].v`]() | 
