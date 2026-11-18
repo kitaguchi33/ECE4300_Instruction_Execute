@@ -5,7 +5,6 @@ module execute (
     input  wire [1:0]  wb_ctl, alu_op,
     input  wire [2:0]  mem_ctl,
     input  wire [31:0] npc, read_data1, read_data2, sign_extended,
-    input  wire [5:0]  instr_5_0,
     input  wire [4:0]  instr_20_16, instr_15_11,
     output wire [1:0]  wb_ctl_out,
     output wire        branch, mem_read, mem_write, zero,
@@ -37,7 +36,7 @@ module execute (
 
 
     alu_control alu_control_unit (
-        .funct  (instr_5_0),
+        .funct  (sign_extended[5:0]),
         .alu_op (alu_op),
         .select (alu_control_signal)
     );
