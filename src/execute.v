@@ -27,7 +27,7 @@ module execute (
     );
 
 
-    top_mux alu_input_mux (
+    ex_top_mux alu_input_mux (
         .out  (alu_input_b),
         .in0  (read_data2),
         .in1  (sign_extended),
@@ -50,7 +50,7 @@ module execute (
     );
 
 
-    bottom_mux destination_mux (
+    ex_bottom_mux destination_mux (
         .a   (instr_15_11),
         .b   (instr_20_16),
         .sel (reg_dst),
