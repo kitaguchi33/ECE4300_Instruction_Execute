@@ -68,7 +68,7 @@ module execute_tb;
         instr_20_16 = 5'd5;
         instr_15_11 = 5'd10;
 
-        #12;
+        #10;
         rst = 1'b1;
 
         wb_ctl = 2'b01;
