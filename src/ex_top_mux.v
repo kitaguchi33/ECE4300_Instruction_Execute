@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-module top_mux(
+module ex_top_mux(
     output reg [31:0] out,
     input [31:0] in0, in1,
     input sel
